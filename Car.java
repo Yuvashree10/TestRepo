@@ -23,7 +23,7 @@ class BMW extends car{
   public String modelName = "X3";
   public void topSpeed()
   {
-    System.out.println("TopSpeed of BMW is 200 kmph");
+    System.out.println("TopSpeed of BMW is 900 kmph");
     
   }
 }
