@@ -16,7 +16,7 @@ class car{
     System.out.println("Reverse Gear is Applied...");
   }
    public void reverseGearConf(){
-    System.out.println("Reverse1 Gear is Applied...");
+    System.out.println("Reverse100 Gear is Applied...");
   }
    public void switchOnHeadlights(){
     System.out.println("Headlights turned on...");
