@@ -14,7 +14,7 @@ class car {
   public int no_of_tires = 4;
   public String bodyType = "Plastic";
   public void reverseGear(){
-    System.out.println("Reverse Gear is Applied Merge Arrised By Person2");
+    System.out.println("Reverse Gear is Applied Merge Arrised By Person1");
   }
 
   public void reverseGearConf() {
